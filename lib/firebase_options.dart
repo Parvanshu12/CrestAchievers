@@ -41,49 +41,49 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBczVtCafEwsFL9YbVPH168L18LoVQQOgw',
-    appId: '1:878723284707:web:2864b00113f948a7730fd6',
-    messagingSenderId: '878723284707',
-    projectId: 'crest-achievers-a3b2b',
-    authDomain: 'crest-achievers-a3b2b.firebaseapp.com',
-    storageBucket: 'crest-achievers-a3b2b.firebasestorage.app',
-    measurementId: 'G-R2154J45ST',
+    apiKey: '****************************************',
+    appId: '***************************************d6',
+    messagingSenderId: '*************',
+    projectId: 'cre*****************b',
+    authDomain: 'cr************************************m',
+    storageBucket: 'c*********************************pp',
+    measurementId: '****************************T',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA_UB4PhagfftlugLGgt51YjZhNzPuG5kI',
-    appId: '1:878723284707:android:105bf24860997d30730fd6',
-    messagingSenderId: '878723284707',
-    projectId: 'crest-achievers-a3b2b',
-    storageBucket: 'crest-achievers-a3b2b.firebasestorage.app',
+    apiKey: '******************G5kI',
+    appId: '1:******************30fd6',
+    messagingSenderId: '8******************07',
+    projectId: 'cr******************b',
+    storageBucket: 'crest-******************age.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCEPtwgAWQv29MA1ngLrq-Jqh4LvQ_Yy6c',
-    appId: '1:878723284707:ios:97364ab0241d8369730fd6',
-    messagingSenderId: '878723284707',
-    projectId: 'crest-achievers-a3b2b',
-    storageBucket: 'crest-achievers-a3b2b.firebasestorage.app',
-    iosBundleId: 'com.crestachievers.crestAchievers',
+    apiKey: 'AIz******************Q_Yy6c',
+    appId: '1:******************0fd6',
+    messagingSenderId: '87******************',
+    projectId: 'cre******************b',
+    storageBucket: 'cres******************.app',
+    iosBundleId: 'co******************rs',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCEPtwgAWQv29MA1ngLrq-Jqh4LvQ_Yy6c',
-    appId: '1:878723284707:ios:97364ab0241d8369730fd6',
-    messagingSenderId: '878723284707',
-    projectId: 'crest-achievers-a3b2b',
-    storageBucket: 'crest-achievers-a3b2b.firebasestorage.app',
-    iosBundleId: 'com.crestachievers.crestAchievers',
+    apiKey: 'A******************c',
+    appId: '1******************0fd6',
+    messagingSenderId: '******************4707',
+    projectId: 'cr******************3b2b',
+    storageBucket: 'cre******************p',
+    iosBundleId: 'co******************ers',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBczVtCafEwsFL9YbVPH168L18LoVQQOgw',
-    appId: '1:878723284707:web:cf072933c7e18a95730fd6',
-    messagingSenderId: '878723284707',
-    projectId: 'crest-achievers-a3b2b',
-    authDomain: 'crest-achievers-a3b2b.firebaseapp.com',
-    storageBucket: 'crest-achievers-a3b2b.firebasestorage.app',
-    measurementId: 'G-LCJ3NDPL30',
+    apiKey: 'A******************Ogw',
+    appId: '1:******************95730fd6',
+    messagingSenderId: '8******************707',
+    projectId: 'cres******************b',
+    authDomain: 'cres******************om',
+    storageBucket: 'cr******************e.app',
+    measurementId: 'G******************0',
   );
 
 }

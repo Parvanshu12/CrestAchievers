@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "878723284707",
+    "project_id": "crest-achievers-a3b2b",
+    "storage_bucket": "crest-achievers-a3b2b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878723284707:android:105bf24860997d30730fd6",
+        "android_client_info": {
+          "package_name": "com.crestachievers.crest_achievers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_UB4PhagfftlugLGgt51YjZhNzPuG5kI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
